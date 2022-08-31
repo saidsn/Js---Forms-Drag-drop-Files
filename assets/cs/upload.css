@@ -1,0 +1,19 @@
+.upload-field{
+    width: 400px;
+    height: 400px;
+    background-image: linear-gradient(to bottom, red, orange);
+    border-radius: 20px;
+}
+.upload-icon{
+    font-size: 70px;
+    color: rgb(79, 30, 92);
+    cursor: pointer;
+}
+
+#drag-elem{
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    width: 400px;
+    height: 400px;
+}
